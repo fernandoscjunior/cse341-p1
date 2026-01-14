@@ -6,3 +6,5 @@ router.get('/', userController.getAll);
 router.get('/:id', userController.getSingle);
 
 module.exports = router;
+
+//comment
