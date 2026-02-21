@@ -1,2 +1,2 @@
-# cse341-p1
-First 4 lessons from cse341 course 
+# cse341 Express API Course
+First 4 weeks of CSE341 Web Services course.
